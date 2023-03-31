@@ -2,7 +2,7 @@ body {
   background-color: rgb(224 101 0);
   font-size: 10pt;
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  color: rgb(48, 48, 48);
+  color: rgb(48 48 48);
   line-height: 14pt;
   padding-left: 5pt;
   padding-right: 5pt;
@@ -13,7 +13,7 @@ h1 {
   font: 25pt Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 80pt;
-  color:  rgb(48 48 48);
+  color: rgb(48 48 48);
   background-color: #b5b5b5;
 }
 
@@ -41,9 +41,6 @@ div {
   color: rgb(48 48 48);
   margin: 5px;
 }
-
-/* Puts Image on the Left */
-<img src="./images/celciustofahrenheit2.jpg" alt="style" style="display: block; margin: 0 auto;">
 
 img {
   padding: 3pt;
